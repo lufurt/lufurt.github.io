@@ -3,7 +3,7 @@
     margin: 0;
 }
 #hero{
-    background-image: url("herosectionwalpaper2.webp");
+    background-image: url("herosectionwalpaper.webp");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100vh;
