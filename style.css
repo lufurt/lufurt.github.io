@@ -3,7 +3,7 @@
     margin: 0;
 }
 #hero{
-    background-image: url("herosectionwalpaper.webp");
+    background-image: url("herosectionwalpaper2.webp");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100vh;
@@ -68,8 +68,6 @@ li a:hover{
     padding: 4%;
     display: flex;
     flex-direction: column;
-    justify-items: center;
-    justify-content: center;
     align-items: center;
 }
 .sec{
